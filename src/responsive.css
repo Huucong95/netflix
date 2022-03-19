@@ -1,0 +1,13 @@
+/* mobie tablet */
+@media (max-width: 1023px) {
+    
+    
+    
+}
+
+/* mobile */
+@media (max-width:739px) {
+    .introContainer {
+        display: none;
+    }
+}
